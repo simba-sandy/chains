@@ -1,0 +1,22 @@
+{
+  "name": "Shardeum Liberty 1.0",
+  "chain": "Shardeum",
+  "rpc": ["https://liberty10.shardeum.org/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Shardeum Test token",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "infoURL": "https://shardeum.org/",
+  "shortName": "SHM",
+  "chainId": 8080,
+  "networkId": 32520,
+  "explorers": [
+    {
+      "name": "Shardeum Scan",
+      "url": "http://explorer.liberty10.shardeum.org:5555/",
+      "standard": "EIP3091"
+    }
+  ]
+}
